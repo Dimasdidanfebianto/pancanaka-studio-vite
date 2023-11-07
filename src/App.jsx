@@ -1,7 +1,9 @@
-export default function App() {
+ function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
+    <h1 className="flex justify-center b">
       Hello world!
     </h1>
   )
 }
+
+export default App;
