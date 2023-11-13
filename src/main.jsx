@@ -6,5 +6,6 @@ import Navbar from './components/moleculs/Navbar.jsx'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Navbar />
+    <background></background>
   </React.StrictMode>,
 )
