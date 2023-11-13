@@ -5,6 +5,9 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    fontFamily: {
+      navbar: ['Poppins', 'sans-serif'],
+    },
     extend: {},
   },
   plugins: [],
